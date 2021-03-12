@@ -1,2 +1,2 @@
 # Desafio
-Desafio Buzzfizz
+Desafio Buzzfizz realizado em Python 3.7
