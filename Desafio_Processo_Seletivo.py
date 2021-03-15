@@ -1,6 +1,5 @@
 import time
 
-
 def fizz_buzz_game():
     list_of_values = []
     current_number = 1
@@ -22,7 +21,6 @@ def fizz_buzz_game():
             current_number += 1
 
     return list_of_values
-
 
 
 if __name__ == '__main__':
